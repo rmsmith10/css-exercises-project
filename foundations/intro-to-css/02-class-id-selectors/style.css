@@ -2,3 +2,18 @@ p {
     background-color: palevioletred;
     font: Verdana, DeJavu-Sans, sans-serif;
 }
+
+p.large{
+    font-size: 24px;
+}
+
+div.number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+div.green {
+    background-color: rgb(153, 254, 0);
+    font-size: 24px;
+    font-weight: 900;
+}
