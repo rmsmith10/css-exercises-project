@@ -1,9 +1,9 @@
-p {
+p.odd {
     background-color: palevioletred;
     font: Verdana, DeJavu-Sans, sans-serif;
 }
 
-p.large{
+p.large {
     font-size: 24px;
 }
 
