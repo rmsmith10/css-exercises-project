@@ -15,6 +15,14 @@ img {
   margin-bottom: 18px;
 }
 
+.plants {
+  display: flex;
+  justify-content: space-evenly;
+}
+.column_one {
+  display: flex;
+  flex-direction: column;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
